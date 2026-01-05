@@ -10,10 +10,9 @@
   "categories": [
     "Programming Languages"
   ],
-  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matt-wai/catspeak-vscode-highlighting"
+    "url": "https://github.com/Mattz-CE/catspeak-vscode-highlighting"
   },
   "contributes": {
     "languages": [

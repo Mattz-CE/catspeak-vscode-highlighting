@@ -21,7 +21,7 @@ Based on [Catspeak](https://github.com/katsaii/catspeak-lang) by Katsaii.
 
 ### From VSIX
 
-1. Download the `.vsix` from [Releases](https://github.com/matt-wai/catspeak-vscode-highlighting/releases)
+1. Download the `.vsix` from [Releases](https://github.com/Mattz-CE/catspeak-vscode-highlighting/releases)
 2. In VS Code/Cursor: Extensions → `...` → **Install from VSIX**
 
 ### Manual
