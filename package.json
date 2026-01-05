@@ -1,0 +1,42 @@
+{
+  "name": "catspeak-language",
+  "displayName": "Catspeak Language",
+  "description": "Syntax highlighting for Catspeak (.meow) files - the modding language for GameMaker games",
+  "version": "1.0.0",
+  "publisher": "matt-wai",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matt-wai/catspeak-vscode-highlighting"
+  },
+  "contributes": {
+    "languages": [
+      {
+        "id": "catspeak",
+        "aliases": [
+          "Catspeak",
+          "catspeak",
+          "meow"
+        ],
+        "extensions": [
+          ".meow"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "catspeak",
+        "scopeName": "source.catspeak",
+        "path": "./syntaxes/catspeak.tmLanguage.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
