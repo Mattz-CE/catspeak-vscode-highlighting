@@ -3,7 +3,7 @@
   "displayName": "Catspeak Language",
   "description": "Syntax highlighting for Catspeak (.meow) files - the modding language for GameMaker games",
   "version": "1.0.0",
-  "publisher": "matt-wai",
+  "publisher": "mattz-ce",
   "engines": {
     "vscode": "^1.60.0"
   },
